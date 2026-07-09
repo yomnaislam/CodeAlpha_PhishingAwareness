@@ -46,27 +46,6 @@ CodeAlpha_PhishingAwarenessTraining/
 │── screenshots/
 ```
 
----
-
-## Screenshots
-
-### Introduction
-
-![Introduction](screenshots/slide1.png)
-
-### Types of Phishing
-
-![Types](screenshots/slide3.png)
-
-### Social Engineering
-
-![Social Engineering](screenshots/slide5.png)
-
-### Quiz
-
-![Quiz](screenshots/quiz.png)
-
----
 
 ## Learning Outcomes
 
