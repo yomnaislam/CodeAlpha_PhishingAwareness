@@ -1,0 +1,8 @@
+# PowerPoint temporary files
+~$*.pptx
+
+# Windows
+Thumbs.db
+
+# macOS
+.DS_Store
