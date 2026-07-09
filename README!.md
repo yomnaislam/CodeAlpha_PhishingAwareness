@@ -45,7 +45,9 @@ CodeAlpha_PhishingAwarenessTraining/
 │── .gitignore
 │── screenshots/
 ```
-
+---
+## Explanation Video
+Uploaded on LinkedIn at https://www.linkedin.com/posts/yomna-islam-a51965410_codealpha-cybersecurity-cybersecurityinternship-activity-7480969586289487872-rpDi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGjK-Z0BXtSqhMWDpmxBlQf_qek2dNpTtxY 
 
 ## Learning Outcomes
 
